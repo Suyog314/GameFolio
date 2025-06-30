@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Draw the Perfect Circle!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="game-container">
+        <header>
+            <h1>Draw the Perfect Circle!</h1>
+            <p>Can you draw the most perfect circle ever?</p>
+        </header>
+        
+        <div class="game-area">
+            <div class="instructions">
+                <p>Draw a circle with at least a radius of <span id="min-radius">50px</span>.</p>
+                <p>Your perfection: <span id="perfection">0%</span></p>
+            </div>
+            <canvas id="canvas"></canvas>
+        </div>
+
+        <div class="popup" id="popup">
+            <div class="popup-content">
+                <h2>Game Over!</h2>
+                <p>Your circle perfection was <span id="final-perfection">0%</span>.</p>
+                <button onclick="restartGame()">Play Again</button>
+            </div>
+        </div>
+
+        <footer>
+            <p>Made with ❤️ by Your Name</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

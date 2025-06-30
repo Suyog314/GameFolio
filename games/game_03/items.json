@@ -1,0 +1,111 @@
+
+[
+  {
+    "name": "Lollipop",
+    "tier": "Basic",
+    "price": 47,
+    "message": "You bought a Lollipop! That’s questionable."
+  },
+  {
+    "name": "Soda Can",
+    "tier": "Basic",
+    "price": 34,
+    "message": "You bought a Soda Can! That’s questionable."
+  },
+  {
+    "name": "Pizza Slice",
+    "tier": "Basic",
+    "price": 9,
+    "message": "You bought a Pizza Slice! Good choice!"
+  },
+  {
+    "name": "Fidget Spinner",
+    "tier": "Basic",
+    "price": 8,
+    "message": "You bought a Fidget Spinner! Was that really necessary?"
+  },
+  {
+    "name": "Comic Book",
+    "tier": "Basic",
+    "price": 48,
+    "message": "You bought a Comic Book! What a flex!"
+  },
+  {
+    "name": "Rubber Duck",
+    "tier": "Basic",
+    "price": 37,
+    "message": "You bought a Rubber Duck! Good choice!"
+  },
+  {
+    "name": "Toothbrush",
+    "tier": "Basic",
+    "price": 32,
+    "message": "You bought a Toothbrush! Hygiene matters!"
+  },
+  {
+    "name": "Paperclip",
+    "tier": "Basic",
+    "price": 1,
+    "message": "You bought a Paperclip. Why?"
+  },
+  {
+    "name": "Pet Hamster",
+    "tier": "Intermediate",
+    "price": 1200,
+    "message": "You bought a Hamster! Hope you have a cage."
+  },
+  {
+    "name": "Motorbike",
+    "tier": "Intermediate",
+    "price": 14000,
+    "message": "You bought a Motorbike! Zoom zoom!"
+  },
+  {
+    "name": "Gaming PC",
+    "tier": "Intermediate",
+    "price": 2500,
+    "message": "You bought a Gaming PC! GG."
+  },
+  {
+    "name": "Private Jet",
+    "tier": "Luxury",
+    "price": 30000000,
+    "message": "You bought a Private Jet! You baller!"
+  },
+  {
+    "name": "Small Island",
+    "tier": "Luxury",
+    "price": 50000000,
+    "message": "You bought an Island! Time to rule!"
+  },
+  {
+    "name": "Moon Base",
+    "tier": "Extreme",
+    "price": 1000000000,
+    "message": "You bought a Moon Base! Who even are you?"
+  },
+  {
+    "name": "Entire Football Club",
+    "tier": "Extreme",
+    "price": 4000000000,
+    "message": "You bought a Football Club! Go team!"
+  },
+  {
+    "name": "Mars Colony",
+    "tier": "God Tier",
+    "price": 75000000000,
+    "message": "You bought a Mars Colony! Insane!"
+  },
+  {
+    "name": "The Internet",
+    "tier": "God Tier",
+    "price": 95000000000,
+    "message": "You now own the Internet! Bow down!"
+  },
+  {
+    "name": "Earth",
+    "tier": "Final",
+    "price": 100000000000,
+    "message": "You bought the Earth. You win."
+  }
+]
